@@ -41,3 +41,6 @@ Lakshmi Gollapothu
 * PDF Report Cards
 * Excel Export
 * Attendance Analytics
+## Screenshot
+
+![Student Management System](screenshot.png)
