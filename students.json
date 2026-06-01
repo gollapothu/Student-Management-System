@@ -1,0 +1,30 @@
+[
+    {
+        "roll_no": "24P32A0504",
+        "name": "GOLLAPOTHU LAKSHMI",
+        "department": "CSE",
+        "marks": 95,
+        "attendance": 86
+    },
+    {
+        "roll_no": "24P32A0501",
+        "name": "KAVYA",
+        "department": "CSE",
+        "marks": 89,
+        "attendance": 87
+    },
+    {
+        "roll_no": "24P32A0502",
+        "name": "NAVANEETH",
+        "department": "CSE",
+        "marks": 87,
+        "attendance": 0
+    },
+    {
+        "roll_no": "24P32A0503",
+        "name": "SOFIYA",
+        "department": "CSE",
+        "marks": 0,
+        "attendance": 0
+    }
+]
